@@ -28,7 +28,7 @@ _Секция 2._
 13-30| Коновалов Александр, МГТУ им. Н.Э. Баумана | *Декомпозиция вызовов функций во время суперкомпиляции путём построения выходных форматов* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Konovalov.pdf) |
 14-30 | Немытых Андрей, ИПС| *О языке постановки задач автоматизации программирования* |[слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2025/Nemytykh.pdf)|
 15-30|  | Перерыв |  |
-15-45 | Черганов Тимофей, Astra Linux| *Формально верифицированный статический анализатор байткода eBP* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Cherganov.pdf) |
+15-45 | Черганов Тимофей, Astra Linux| *Формально верифицированный статический анализатор байткода eBPF* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Cherganov.pdf) |
 
 _16-45 - Закрытие_
 
