@@ -17,11 +17,11 @@ _Секция 1._
 
 |Начало| Докладчик | Название доклада | Материалы |
 |-|-----------|------------------|---------- |
-13-35 | Непейвода Антонина, ИПС | *Вводная лекция. Индукция в анализе программ* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Nepeivoda.pdf) |
-14-20 | Немытых Андрей, ИПС| *О языке постановки задач автоматизации программирования* |[слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2025/Nemytykh.pdf)|
-15-20| Коновалов Александр, МГТУ им. Н.Э. Баумана | *Декомпозиция вызовов функций во время суперкомпиляции путём построения выходных форматов* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Konovalov.pdf) |
+13-35 | Непейвода Антонина, ИПС | *Вводная лекция. Индукция в анализе программ* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/META_Nepeivoda.pdf) |
+14-20 | Немытых Андрей, ИПС| *О языке постановки задач автоматизации программирования* |[слайды](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/META_Nemytykh.pdf)|
+15-20| Коновалов Александр, МГТУ им. Н.Э. Баумана | *Декомпозиция вызовов функций во время суперкомпиляции путём построения выходных форматов* (доклад-гармошка) | [слайды](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/META_Konovalov.pdf) |
 16-20|  | Перерыв |  |
-16-30 | Черганов Тимофей, Astra Linux| *Формально верифицированный статический анализатор байткода eBPF* | [слайды TBA](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/Cherganov.pdf) |
+16-30 | Черганов Тимофей, Astra Linux| *Формально верифицированный статический анализатор байткода eBPF* | [слайды](https://github.com/bmstu-iu9/JointRefal/blob/main/slides2026/META_Cherganov.pdf) |
 
 _17-30 - Закрытие_
 
